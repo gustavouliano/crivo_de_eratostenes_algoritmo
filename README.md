@@ -2,9 +2,9 @@
 
 Performance analysis of the Sieve of Eratosthenes algorithm implemented using sequential, concurrent and parallel programming approaches. The project compares execution time, speedup and efficiency across different problem sizes using Java and C++.
 
-Medium: https://medium.com/@jenifergoedert10/implementação-sequencial-paralela-e-concorrente-do-algoritmo-crivo-de-eratóstenes-e865e29da7ac
-
 > **Academic Project** — Concurrent and Parallel Programming.
+
+Medium: https://medium.com/@jenifergoedert10/implementação-sequencial-paralela-e-concorrente-do-algoritmo-crivo-de-eratóstenes-e865e29da7ac
 
 ---
 
